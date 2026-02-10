@@ -237,7 +237,6 @@ De volta ao menu principal, selecione:
 
 ```
 Instalação do macOS Monterey
-
 ```
 
 Clique em **Continuar**.
