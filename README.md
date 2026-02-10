@@ -25,14 +25,10 @@ O objetivo é auxiliar estudantes, desenvolvedores e pesquisadores que precisam 
 > [!IMPORTANT]
 > Você pode baixar as ISOs usando torrents, que também são muito mais rápidos, graças aos incríveis seeders!
 
-<details>
-  <summary>MacOS Monterey</summary>
   
   | Version                            | Download Link                         |
   |------------------------------------|---------------------------------------|
   | macOS 12 Monterey | [Torrent](https://raw.githubusercontent.com/PedRufino/macOS_12_Monterey_Iso/main/macOS_12_Monterey.iso.torrent) |
-
-</details>
 
 
 ## Perguntas Frequentes ❓
