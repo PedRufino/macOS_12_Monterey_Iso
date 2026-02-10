@@ -7,7 +7,7 @@ Este repositório documenta o processo de instalação e execução do macOS 12 
 
 O objetivo é auxiliar estudantes, desenvolvedores e pesquisadores que precisam testar compatibilidade de software (especialmente Safari/iOS) sem possuir um computador Apple físico.
 
-*Se você for um representante da Apple Inc. ou de qualquer outra parte envolvida, leia a seção [Legal](#legal-) abaixo.*
+*Se você for um representante da Apple Inc. ou de qualquer outra parte envolvida, leia a seção [Aviso Legal](#aviso-legal-) abaixo.*
 
 ## Sumário 📚
 
